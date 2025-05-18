@@ -12,7 +12,7 @@ int main(){
 	cout<<*p;
 	cout<<endl;
 	cout<< *p+2;
-	
+	cout<<"thanks for learning with us"
 	return 0;
 	
 }
